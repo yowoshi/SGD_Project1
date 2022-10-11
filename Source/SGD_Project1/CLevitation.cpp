@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
+/*
 #include "CLevitation.h"
 
 ACLevitation::ACLevitation()
@@ -28,3 +28,4 @@ void ACLevitation::~CLevitation()
 	//Sets the resulting vector as the new position for the actor
 	this->SetActorLocation(finalPosition);
 }
+*/
